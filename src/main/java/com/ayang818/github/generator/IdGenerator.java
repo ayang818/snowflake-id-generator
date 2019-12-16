@@ -4,7 +4,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author 25959
+ * @date 2019/12/16 18:19
+ * @author 杨丰畅
  */
 public class IdGenerator {
 
